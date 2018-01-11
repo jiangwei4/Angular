@@ -1,0 +1,6 @@
+tsc nomdufichier.ts
+
+passer de ES6 a ES5 ->  tsc --t ES5 nomdufichier.ts
+
+
+apres les 3 fichiers packagejson , tsconfig et systemjs -> npm install
